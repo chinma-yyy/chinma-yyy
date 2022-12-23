@@ -1,14 +1,14 @@
-###Hello , I'm Chinmay 👋
+### Hello , I'm Chinmay 👋
 
-#Nothing is stopping me from exploring:v:
+# Nothing is stopping me from exploring:v:
 ## API Development and DevOps
 
-##About Me
+## About Me
 
 - 🤔 I’m looking for help with any advance API related concepts
 - 📫 You can contact me through shewalechinmay54@gmail.com or [Twitter](https://www.twitter.com/chinma_yyy)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
 
-##Skills 
+## Skills 
 MongoDB Nodejs Expressjs 
