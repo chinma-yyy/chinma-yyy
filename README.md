@@ -1,16 +1,14 @@
-### Hi there 👋
+###Hello , I'm Chinmay 👋
 
-<!--
-**chinmayshewale/chinmayshewale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Nothing is stopping me from exploring:v:
+## API Development and DevOps
 
-Here are some ideas to get you started:
+##About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m looking for help with any advance API related concepts
+- 📫 You can contact me through shewalechinmay54@gmail.com or [Twitter](https://www.twitter.com/chinma_yyy)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: 
+
+##Skills 
+MongoDB Nodejs Expressjs 
