@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [blogs.chinmayyy.tech](blogs.chinmayyy.tech)
 
-- 📫 How to reach me **shewalechinmay54@gmail.com** [Twitter/X](www.twitter.com/chinma_yyy)
+- 📫 How to reach me **shewalechinmay54@gmail.com** **[Twitter/X](www.twitter.com/chinma_yyy)**
 
 
 <h3 align="left">Languages and Tools:</h3>
